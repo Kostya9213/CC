@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R9ddM1mnCZ+lDhXd+LdaAcDv/+bxc+FqxBCoNfP0lAcSbN82squxmEEq0xwp4ZnvgE2MZjGirXPqxD5AgX7Qvw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kozac\\source\\repos\\Lab4\\Lab4\\Lab4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kozac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}
